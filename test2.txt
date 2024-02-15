@@ -1,0 +1,523 @@
+(ID: 18   AT: 2   ST: 7)
+(ID: 21   AT: 2   ST: 3)
+(ID: 31   AT: 2   ST: 3)
+(ID: 35   AT: 3   ST: 2)
+(ID: 47   AT: 4   ST: 4)
+(ID: 50   AT: 4   ST: 6)
+(ID: 4   AT: 5   ST: 5)
+(ID: 2   AT: 6   ST: 4)
+(ID: 17   AT: 6   ST: 5)
+(ID: 46   AT: 6   ST: 4)
+(ID: 16   AT: 8   ST: 3)
+(ID: 13   AT: 9   ST: 4)
+(ID: 30   AT: 10   ST: 7)
+(ID: 5   AT: 12   ST: 3)
+(ID: 29   AT: 12   ST: 1)
+(ID: 1   AT: 14   ST: 7)
+(ID: 14   AT: 14   ST: 4)
+(ID: 20   AT: 14   ST: 2)
+(ID: 37   AT: 14   ST: 1)
+(ID: 6   AT: 16   ST: 4)
+(ID: 43   AT: 16   ST: 1)
+(ID: 49   AT: 18   ST: 5)
+(ID: 11   AT: 19   ST: 2)
+(ID: 25   AT: 20   ST: 2)
+(ID: 28   AT: 20   ST: 2)
+(ID: 40   AT: 21   ST: 2)
+(ID: 32   AT: 22   ST: 4)
+(ID: 39   AT: 22   ST: 2)
+(ID: 12   AT: 24   ST: 1)
+(ID: 27   AT: 24   ST: 6)
+(ID: 45   AT: 24   ST: 1)
+(ID: 10   AT: 25   ST: 4)
+(ID: 9   AT: 26   ST: 3)
+(ID: 15   AT: 27   ST: 2)
+(ID: 8   AT: 29   ST: 3)
+(ID: 22   AT: 29   ST: 5)
+(ID: 24   AT: 29   ST: 6)
+(ID: 34   AT: 29   ST: 3)
+(ID: 36   AT: 30   ST: 4)
+(ID: 41   AT: 30   ST: 3)
+(ID: 42   AT: 31   ST: 4)
+(ID: 19   AT: 32   ST: 6)
+(ID: 38   AT: 32   ST: 6)
+(ID: 48   AT: 33   ST: 4)
+(ID: 7   AT: 35   ST: 5)
+(ID: 33   AT: 36   ST: 2)
+(ID: 3   AT: 37   ST: 3)
+(ID: 44   AT: 38   ST: 5)
+(ID: 23   AT: 40   ST: 1)
+(ID: 26   AT: 40   ST: 6)
+Queues at time 0: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 1: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Task 18 has arrived at time 2
+Task 21 has arrived at time 2
+Task 31 has arrived at time 2
+Queues at time 2: 
+1 :(ID: 18   AT: 2   ST: 7)
+2 :(ID: 21   AT: 2   ST: 3)
+3 :(ID: 31   AT: 2   ST: 3)
+4 :
+5 :
+
+Task 35 has arrived at time 3
+Queues at time 3: 
+1 :(ID: 18   AT: 2   ST: 6)
+2 :(ID: 21   AT: 2   ST: 2)
+3 :(ID: 31   AT: 2   ST: 2)
+4 :(ID: 35   AT: 3   ST: 2)
+5 :
+
+Task 47 has arrived at time 4
+Task 50 has arrived at time 4
+Queues at time 4: 
+1 :(ID: 18   AT: 2   ST: 5)
+2 :(ID: 21   AT: 2   ST: 1)(ID: 50   AT: 4   ST: 6)
+3 :(ID: 31   AT: 2   ST: 1)
+4 :(ID: 35   AT: 3   ST: 1)
+5 :(ID: 47   AT: 4   ST: 4)
+
+Task 4 has arrived at time 5
+Queues at time 5: 
+1 :(ID: 18   AT: 2   ST: 4)
+2 :(ID: 50   AT: 4   ST: 6)
+3 :(ID: 4   AT: 5   ST: 5)
+4 :
+5 :(ID: 47   AT: 4   ST: 3)
+
+Task 2 has arrived at time 6
+Task 17 has arrived at time 6
+Task 46 has arrived at time 6
+Queues at time 6: 
+1 :(ID: 18   AT: 2   ST: 3)(ID: 46   AT: 6   ST: 4)
+2 :(ID: 50   AT: 4   ST: 5)
+3 :(ID: 4   AT: 5   ST: 4)
+4 :(ID: 2   AT: 6   ST: 4)
+5 :(ID: 47   AT: 4   ST: 2)(ID: 17   AT: 6   ST: 5)
+
+Queues at time 7: 
+1 :(ID: 18   AT: 2   ST: 2)(ID: 46   AT: 6   ST: 4)
+2 :(ID: 50   AT: 4   ST: 4)
+3 :(ID: 4   AT: 5   ST: 3)
+4 :(ID: 2   AT: 6   ST: 3)
+5 :(ID: 47   AT: 4   ST: 1)(ID: 17   AT: 6   ST: 5)
+
+Task 16 has arrived at time 8
+Queues at time 8: 
+1 :(ID: 18   AT: 2   ST: 1)(ID: 46   AT: 6   ST: 4)
+2 :(ID: 50   AT: 4   ST: 3)
+3 :(ID: 4   AT: 5   ST: 2)(ID: 16   AT: 8   ST: 3)
+4 :(ID: 2   AT: 6   ST: 2)
+5 :(ID: 17   AT: 6   ST: 5)
+
+Task 13 has arrived at time 9
+Queues at time 9: 
+1 :(ID: 46   AT: 6   ST: 4)
+2 :(ID: 50   AT: 4   ST: 2)
+3 :(ID: 4   AT: 5   ST: 1)(ID: 16   AT: 8   ST: 3)
+4 :(ID: 2   AT: 6   ST: 1)(ID: 13   AT: 9   ST: 4)
+5 :(ID: 17   AT: 6   ST: 4)
+
+Task 30 has arrived at time 10
+Queues at time 10: 
+1 :(ID: 46   AT: 6   ST: 3)
+2 :(ID: 50   AT: 4   ST: 1)(ID: 30   AT: 10   ST: 7)
+3 :(ID: 16   AT: 8   ST: 3)
+4 :(ID: 13   AT: 9   ST: 4)
+5 :(ID: 17   AT: 6   ST: 3)
+
+Queues at time 11: 
+1 :(ID: 46   AT: 6   ST: 2)
+2 :(ID: 30   AT: 10   ST: 7)
+3 :(ID: 16   AT: 8   ST: 2)
+4 :(ID: 13   AT: 9   ST: 3)
+5 :(ID: 17   AT: 6   ST: 2)
+
+Task 5 has arrived at time 12
+Task 29 has arrived at time 12
+Queues at time 12: 
+1 :(ID: 46   AT: 6   ST: 1)(ID: 5   AT: 12   ST: 3)
+2 :(ID: 30   AT: 10   ST: 6)
+3 :(ID: 16   AT: 8   ST: 1)(ID: 29   AT: 12   ST: 1)
+4 :(ID: 13   AT: 9   ST: 2)
+5 :(ID: 17   AT: 6   ST: 1)
+
+Queues at time 13: 
+1 :(ID: 46   AT: 6   ST: 1)(ID: 5   AT: 12   ST: 3)
+2 :(ID: 30   AT: 10   ST: 6)
+3 :(ID: 29   AT: 12   ST: 1)
+4 :(ID: 13   AT: 9   ST: 1)
+5 :
+
+Task 1 has arrived at time 14
+Task 14 has arrived at time 14
+Task 20 has arrived at time 14
+Task 37 has arrived at time 14
+Queues at time 14: 
+1 :(ID: 5   AT: 12   ST: 2)(ID: 37   AT: 14   ST: 1)
+2 :(ID: 30   AT: 10   ST: 4)
+3 :(ID: 14   AT: 14   ST: 4)
+4 :(ID: 1   AT: 14   ST: 7)
+5 :(ID: 20   AT: 14   ST: 2)
+
+Queues at time 15: 
+1 :(ID: 5   AT: 12   ST: 1)(ID: 37   AT: 14   ST: 1)
+2 :(ID: 30   AT: 10   ST: 3)
+3 :(ID: 14   AT: 14   ST: 3)
+4 :(ID: 1   AT: 14   ST: 6)
+5 :(ID: 20   AT: 14   ST: 1)
+
+Task 6 has arrived at time 16
+Task 43 has arrived at time 16
+Queues at time 16: 
+1 :(ID: 37   AT: 14   ST: 1)(ID: 43   AT: 16   ST: 1)
+2 :(ID: 30   AT: 10   ST: 2)
+3 :(ID: 14   AT: 14   ST: 2)
+4 :(ID: 1   AT: 14   ST: 5)
+5 :(ID: 6   AT: 16   ST: 4)
+
+Queues at time 17: 
+1 :(ID: 43   AT: 16   ST: 1)
+2 :(ID: 30   AT: 10   ST: 1)
+3 :(ID: 14   AT: 14   ST: 1)
+4 :(ID: 1   AT: 14   ST: 4)
+5 :(ID: 6   AT: 16   ST: 3)
+
+Task 49 has arrived at time 18
+Queues at time 18: 
+1 :(ID: 49   AT: 18   ST: 5)
+2 :
+3 :
+4 :(ID: 1   AT: 14   ST: 3)
+5 :(ID: 6   AT: 16   ST: 2)
+
+Task 11 has arrived at time 19
+Queues at time 19: 
+1 :(ID: 49   AT: 18   ST: 4)
+2 :(ID: 11   AT: 19   ST: 2)
+3 :
+4 :(ID: 1   AT: 14   ST: 2)
+5 :(ID: 6   AT: 16   ST: 1)
+
+Task 25 has arrived at time 20
+Task 28 has arrived at time 20
+Queues at time 20: 
+1 :(ID: 49   AT: 18   ST: 3)
+2 :(ID: 11   AT: 19   ST: 1)
+3 :(ID: 25   AT: 20   ST: 2)
+4 :(ID: 1   AT: 14   ST: 1)
+5 :(ID: 28   AT: 20   ST: 2)
+
+Task 40 has arrived at time 21
+Queues at time 21: 
+1 :(ID: 49   AT: 18   ST: 2)
+2 :(ID: 40   AT: 21   ST: 2)
+3 :(ID: 25   AT: 20   ST: 1)
+4 :
+5 :(ID: 28   AT: 20   ST: 1)
+
+Task 32 has arrived at time 22
+Task 39 has arrived at time 22
+Queues at time 22: 
+1 :(ID: 49   AT: 18   ST: 1)
+2 :(ID: 40   AT: 21   ST: 1)
+3 :(ID: 39   AT: 22   ST: 2)
+4 :(ID: 32   AT: 22   ST: 4)
+5 :
+
+Queues at time 23: 
+1 :
+2 :
+3 :(ID: 39   AT: 22   ST: 1)
+4 :(ID: 32   AT: 22   ST: 3)
+5 :
+
+Task 12 has arrived at time 24
+Task 27 has arrived at time 24
+Task 45 has arrived at time 24
+Queues at time 24: 
+1 :(ID: 12   AT: 24   ST: 1)
+2 :(ID: 27   AT: 24   ST: 6)
+3 :(ID: 45   AT: 24   ST: 1)
+4 :(ID: 32   AT: 22   ST: 2)
+5 :
+
+Task 10 has arrived at time 25
+Queues at time 25: 
+1 :
+2 :(ID: 27   AT: 24   ST: 5)
+3 :
+4 :(ID: 32   AT: 22   ST: 1)
+5 :(ID: 10   AT: 25   ST: 4)
+
+Task 9 has arrived at time 26
+Queues at time 26: 
+1 :(ID: 9   AT: 26   ST: 3)
+2 :(ID: 27   AT: 24   ST: 4)
+3 :
+4 :
+5 :(ID: 10   AT: 25   ST: 3)
+
+Task 15 has arrived at time 27
+Queues at time 27: 
+1 :(ID: 9   AT: 26   ST: 2)
+2 :(ID: 27   AT: 24   ST: 3)
+3 :(ID: 15   AT: 27   ST: 2)
+4 :
+5 :(ID: 10   AT: 25   ST: 2)
+
+Queues at time 28: 
+1 :(ID: 9   AT: 26   ST: 1)
+2 :(ID: 27   AT: 24   ST: 2)
+3 :(ID: 15   AT: 27   ST: 1)
+4 :
+5 :(ID: 10   AT: 25   ST: 1)
+
+Task 8 has arrived at time 29
+Task 22 has arrived at time 29
+Task 24 has arrived at time 29
+Task 34 has arrived at time 29
+Queues at time 29: 
+1 :(ID: 22   AT: 29   ST: 5)
+2 :(ID: 27   AT: 24   ST: 1)
+3 :(ID: 24   AT: 29   ST: 6)
+4 :(ID: 8   AT: 29   ST: 3)
+5 :(ID: 34   AT: 29   ST: 3)
+
+Task 36 has arrived at time 30
+Task 41 has arrived at time 30
+Queues at time 30: 
+1 :(ID: 22   AT: 29   ST: 4)
+2 :(ID: 36   AT: 30   ST: 4)
+3 :(ID: 24   AT: 29   ST: 5)
+4 :(ID: 8   AT: 29   ST: 2)(ID: 41   AT: 30   ST: 3)
+5 :(ID: 34   AT: 29   ST: 2)
+
+Task 42 has arrived at time 31
+Queues at time 31: 
+1 :(ID: 22   AT: 29   ST: 3)
+2 :(ID: 36   AT: 30   ST: 3)
+3 :(ID: 24   AT: 29   ST: 4)
+4 :(ID: 8   AT: 29   ST: 1)(ID: 41   AT: 30   ST: 3)
+5 :(ID: 34   AT: 29   ST: 1)(ID: 42   AT: 31   ST: 4)
+
+Task 19 has arrived at time 32
+Task 38 has arrived at time 32
+Queues at time 32: 
+1 :(ID: 22   AT: 29   ST: 2)(ID: 38   AT: 32   ST: 6)
+2 :(ID: 36   AT: 30   ST: 2)(ID: 19   AT: 32   ST: 6)
+3 :(ID: 24   AT: 29   ST: 3)
+4 :(ID: 41   AT: 30   ST: 3)
+5 :(ID: 42   AT: 31   ST: 4)
+
+Task 48 has arrived at time 33
+Queues at time 33: 
+1 :(ID: 22   AT: 29   ST: 1)(ID: 38   AT: 32   ST: 6)
+2 :(ID: 36   AT: 30   ST: 1)(ID: 19   AT: 32   ST: 6)
+3 :(ID: 24   AT: 29   ST: 2)(ID: 48   AT: 33   ST: 4)
+4 :(ID: 41   AT: 30   ST: 2)
+5 :(ID: 42   AT: 31   ST: 3)
+
+Queues at time 34: 
+1 :(ID: 38   AT: 32   ST: 6)
+2 :(ID: 19   AT: 32   ST: 6)
+3 :(ID: 24   AT: 29   ST: 1)(ID: 48   AT: 33   ST: 4)
+4 :(ID: 41   AT: 30   ST: 1)
+5 :(ID: 42   AT: 31   ST: 2)
+
+Task 7 has arrived at time 35
+Queues at time 35: 
+1 :(ID: 38   AT: 32   ST: 5)
+2 :(ID: 19   AT: 32   ST: 5)
+3 :(ID: 48   AT: 33   ST: 4)
+4 :(ID: 7   AT: 35   ST: 5)
+5 :(ID: 42   AT: 31   ST: 1)
+
+Task 33 has arrived at time 36
+Queues at time 36: 
+1 :(ID: 38   AT: 32   ST: 4)
+2 :(ID: 19   AT: 32   ST: 4)
+3 :(ID: 48   AT: 33   ST: 3)
+4 :(ID: 7   AT: 35   ST: 4)
+5 :(ID: 33   AT: 36   ST: 2)
+
+Task 3 has arrived at time 37
+Queues at time 37: 
+1 :(ID: 38   AT: 32   ST: 3)
+2 :(ID: 19   AT: 32   ST: 3)
+3 :(ID: 48   AT: 33   ST: 2)(ID: 3   AT: 37   ST: 3)
+4 :(ID: 7   AT: 35   ST: 3)
+5 :(ID: 33   AT: 36   ST: 1)
+
+Task 44 has arrived at time 38
+Queues at time 38: 
+1 :(ID: 38   AT: 32   ST: 2)
+2 :(ID: 19   AT: 32   ST: 2)
+3 :(ID: 48   AT: 33   ST: 1)(ID: 3   AT: 37   ST: 3)
+4 :(ID: 7   AT: 35   ST: 2)
+5 :(ID: 44   AT: 38   ST: 5)
+
+Queues at time 39: 
+1 :(ID: 38   AT: 32   ST: 1)
+2 :(ID: 19   AT: 32   ST: 1)
+3 :(ID: 3   AT: 37   ST: 3)
+4 :(ID: 7   AT: 35   ST: 1)
+5 :(ID: 44   AT: 38   ST: 4)
+
+Task 23 has arrived at time 40
+Task 26 has arrived at time 40
+Queues at time 40: 
+1 :(ID: 23   AT: 40   ST: 1)
+2 :(ID: 26   AT: 40   ST: 6)
+3 :(ID: 3   AT: 37   ST: 2)
+4 :
+5 :(ID: 44   AT: 38   ST: 3)
+
+Queues at time 41: 
+1 :
+2 :(ID: 26   AT: 40   ST: 5)
+3 :(ID: 3   AT: 37   ST: 1)
+4 :
+5 :(ID: 44   AT: 38   ST: 2)
+
+Queues at time 42: 
+1 :
+2 :(ID: 26   AT: 40   ST: 4)
+3 :
+4 :
+5 :(ID: 44   AT: 38   ST: 1)
+
+Queues at time 43: 
+1 :
+2 :(ID: 26   AT: 40   ST: 3)
+3 :
+4 :
+5 :
+
+Queues at time 44: 
+1 :
+2 :(ID: 26   AT: 40   ST: 2)
+3 :
+4 :
+5 :
+
+Queues at time 45: 
+1 :
+2 :(ID: 26   AT: 40   ST: 1)
+3 :
+4 :
+5 :
+
+Queues at time 46: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 47: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 48: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 49: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 50: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 51: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 52: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 53: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 54: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 55: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 56: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 57: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 58: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Queues at time 59: 
+1 :
+2 :
+3 :
+4 :
+5 :
+
+Average service time= 3.64
+Average wait time= 0.7
+Peak hour= 33

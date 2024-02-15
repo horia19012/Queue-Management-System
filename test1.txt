@@ -1,0 +1,251 @@
+(ID: 4   AT: 7   ST: 3)
+(ID: 2   AT: 8   ST: 4)
+(ID: 1   AT: 11   ST: 3)
+(ID: 3   AT: 30   ST: 4)
+Queues at time 0: 
+1 :
+2 :
+
+Queues at time 1: 
+1 :
+2 :
+
+Queues at time 2: 
+1 :
+2 :
+
+Queues at time 3: 
+1 :
+2 :
+
+Queues at time 4: 
+1 :
+2 :
+
+Queues at time 5: 
+1 :
+2 :
+
+Queues at time 6: 
+1 :
+2 :
+
+Task 4 has arrived at time 7
+Queues at time 7: 
+1 :(ID: 4   AT: 7   ST: 3)
+2 :
+
+Task 2 has arrived at time 8
+Queues at time 8: 
+1 :(ID: 4   AT: 7   ST: 2)
+2 :(ID: 2   AT: 8   ST: 4)
+
+Queues at time 9: 
+1 :(ID: 4   AT: 7   ST: 1)
+2 :(ID: 2   AT: 8   ST: 3)
+
+Queues at time 10: 
+1 :
+2 :(ID: 2   AT: 8   ST: 2)
+
+Task 1 has arrived at time 11
+Queues at time 11: 
+1 :(ID: 1   AT: 11   ST: 3)
+2 :(ID: 2   AT: 8   ST: 1)
+
+Queues at time 12: 
+1 :(ID: 1   AT: 11   ST: 2)
+2 :
+
+Queues at time 13: 
+1 :(ID: 1   AT: 11   ST: 1)
+2 :
+
+Queues at time 14: 
+1 :
+2 :
+
+Queues at time 15: 
+1 :
+2 :
+
+Queues at time 16: 
+1 :
+2 :
+
+Queues at time 17: 
+1 :
+2 :
+
+Queues at time 18: 
+1 :
+2 :
+
+Queues at time 19: 
+1 :
+2 :
+
+Queues at time 20: 
+1 :
+2 :
+
+Queues at time 21: 
+1 :
+2 :
+
+Queues at time 22: 
+1 :
+2 :
+
+Queues at time 23: 
+1 :
+2 :
+
+Queues at time 24: 
+1 :
+2 :
+
+Queues at time 25: 
+1 :
+2 :
+
+Queues at time 26: 
+1 :
+2 :
+
+Queues at time 27: 
+1 :
+2 :
+
+Queues at time 28: 
+1 :
+2 :
+
+Queues at time 29: 
+1 :
+2 :
+
+Task 3 has arrived at time 30
+Queues at time 30: 
+1 :(ID: 3   AT: 30   ST: 4)
+2 :
+
+Queues at time 31: 
+1 :(ID: 3   AT: 30   ST: 3)
+2 :
+
+Queues at time 32: 
+1 :(ID: 3   AT: 30   ST: 2)
+2 :
+
+Queues at time 33: 
+1 :(ID: 3   AT: 30   ST: 1)
+2 :
+
+Queues at time 34: 
+1 :
+2 :
+
+Queues at time 35: 
+1 :
+2 :
+
+Queues at time 36: 
+1 :
+2 :
+
+Queues at time 37: 
+1 :
+2 :
+
+Queues at time 38: 
+1 :
+2 :
+
+Queues at time 39: 
+1 :
+2 :
+
+Queues at time 40: 
+1 :
+2 :
+
+Queues at time 41: 
+1 :
+2 :
+
+Queues at time 42: 
+1 :
+2 :
+
+Queues at time 43: 
+1 :
+2 :
+
+Queues at time 44: 
+1 :
+2 :
+
+Queues at time 45: 
+1 :
+2 :
+
+Queues at time 46: 
+1 :
+2 :
+
+Queues at time 47: 
+1 :
+2 :
+
+Queues at time 48: 
+1 :
+2 :
+
+Queues at time 49: 
+1 :
+2 :
+
+Queues at time 50: 
+1 :
+2 :
+
+Queues at time 51: 
+1 :
+2 :
+
+Queues at time 52: 
+1 :
+2 :
+
+Queues at time 53: 
+1 :
+2 :
+
+Queues at time 54: 
+1 :
+2 :
+
+Queues at time 55: 
+1 :
+2 :
+
+Queues at time 56: 
+1 :
+2 :
+
+Queues at time 57: 
+1 :
+2 :
+
+Queues at time 58: 
+1 :
+2 :
+
+Queues at time 59: 
+1 :
+2 :
+
+Average service time= 3.5
+Average wait time= 0.0
+Peak hour= 8
